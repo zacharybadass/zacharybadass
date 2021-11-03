@@ -10,5 +10,5 @@
     C++
     C#
     JavaScript
-    LUA
+    Lua
     
