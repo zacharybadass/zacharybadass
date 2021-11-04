@@ -2,8 +2,8 @@
 
 ## Projects I’m working on:
 
-    Reality
-    Image Hosting
+    Reality (Software)
+    Reality (Image Hosting)
 
     
 ## Languages I know:
