@@ -6,10 +6,11 @@
     Reality (Image Hosting)
 
     
-## Languages I know:
+## Languages I code in:
 
     C++
     C#
     JavaScript
     Lua
+    PHP
     
