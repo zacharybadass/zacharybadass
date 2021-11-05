@@ -2,9 +2,9 @@
 
 ## Projects I’m working on:
 
-    Reality (Software)
-    Reality (Image Hosting)
-    orbit (Discord Bot)
+    Game Cheats
+    Image Host
+    Discord Bot
 
     
 ## Languages I code in:
