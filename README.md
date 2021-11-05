@@ -1,6 +1,6 @@
 # Welcome!
 
-## Projects I’m working on:
+## What I’m working on:
 
     Game Cheats
     Image Host
